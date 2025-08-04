@@ -1,1 +1,6 @@
+# docker
+Dockerfile
+docker-compose.yml
+docker-compose*.yml
+#idea
 .idea/
