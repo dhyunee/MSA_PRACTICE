@@ -18,7 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -39,3 +39,8 @@ out/
 ### yml ###
 src/main/resources/application.yml
 application.yml
+
+### dockerfile ###
+Dockerfile
+docker-compose.yml
+docker-compose*.yml
