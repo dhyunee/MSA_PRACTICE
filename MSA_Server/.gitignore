@@ -39,3 +39,8 @@ out/
 ### yml ###
 src/main/resources/application.yml
 application.yml
+
+### Docker ###
+Dockerfile
+docker-compose.yml
+docker-compose*.yml
